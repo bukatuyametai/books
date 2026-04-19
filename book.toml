@@ -1,0 +1,7 @@
+[book]
+title = "C言語入門"
+authors = ["OpenAI"]
+language = "ja"
+src = "src"
+
+[output.html]
